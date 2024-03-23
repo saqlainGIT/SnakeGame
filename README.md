@@ -1,2 +1,2 @@
 # SnakeGame
-A complete Snake game which shows and Compares highscore and current score.
+A complete Snake game which shows and compares highscore and current score.
